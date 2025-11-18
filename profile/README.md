@@ -5,7 +5,7 @@
 <h2 align="center">Primali</h2>
 
 <p align="center">
-  AI Agents for Legal Solutions.
+  Sell more by accepting card receivables as payment.
   <br />
   Visit our <a href="https://primali.com.br">Website</a>.
 </p>
